@@ -1,0 +1,108 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="AutoImportSettings">
+        <option name="autoReloadType" value="SELECTIVE" />
+      </component>
+      <component name="CodeInsightWorkspaceSettings">
+        <option name="optimizeImportsOnTheFly" value="true" />
+      </component>
+      <component name="CompilerConfiguration">
+        <bytecodeTargetLevel target="8" />
+      </component>
+      <component name="CompilerWorkspaceConfiguration">
+        <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+        <option name="PARALLEL_COMPILATION" value="true" />
+      </component>
+      <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="D:/Java/apache-maven-3.8.4" />
+            <option name="userSettingsFile" value="D:\Java\apache-maven-3.8.4\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="importingSettings">
+          <MavenImportingSettings>
+            <option name="downloadAnnotationsAutomatically" value="true" />
+            <option name="downloadDocsAutomatically" value="true" />
+            <option name="downloadSourcesAutomatically" value="true" />
+            <option name="jdkForImporter" value="1.8" />
+          </MavenImportingSettings>
+        </option>
+      </component>
+      <component name="MavenRunner">
+        <option name="jreName" value="1.8" />
+      </component>
+      <component name="PersistentConfig">
+        <option name="initConfig">
+          <map>
+            <entry key="initConfig">
+              <value>
+                <Config>
+                  <option name="comment" value="true" />
+                  <option name="daoPackage" value="generator" />
+                  <option name="daoPostfix" value="Dao" />
+                  <option name="modelPackage" value="generator" />
+                  <option name="name" value="initConfig" />
+                  <option name="overrideJava" value="true" />
+                  <option name="overrideXML" value="true" />
+                  <option name="projectFolder" value="" />
+                  <option name="useLombokPlugin" value="true" />
+                  <option name="useSchemaPrefix" value="true" />
+                  <option name="xmlPackage" value="generator" />
+                </Config>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </component>
+      <component name="ProjectInspectionProfilesVisibleTreeState">
+        <entry key="Project Default">
+          <profile-state>
+            <expanded-state>
+              <State />
+              <State>
+                <id>Java</id>
+              </State>
+              <State>
+                <id>Plugin DevKit</id>
+              </State>
+              <State>
+                <id>序列化问题Java</id>
+              </State>
+            </expanded-state>
+            <selected-state>
+              <State>
+                <id>SerializableHasSerialVersionUIDField</id>
+              </State>
+            </selected-state>
+          </profile-state>
+        </entry>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+      </component>
+      <component name="VcsManagerConfiguration">
+        <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="Copyright.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
